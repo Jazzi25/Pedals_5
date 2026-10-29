@@ -1,0 +1,5 @@
+# Generated hardware exports should not be treated as mergeable text.
+*.zip binary
+*.pdf binary
+*.step binary
+*.stp binary
